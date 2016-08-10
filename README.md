@@ -21,7 +21,7 @@ Currently Future Vouchers are supported - issued as the native asset "IFV".
 10,000,000,000 IFV have been issued although they are not in circulation at this time.
 
 ## Connecting to the WDD Chain
-Numerous WDD blockchain nodes are running all over the global. To seed your initial list you may start with:
+Numerous WDD blockchain nodes are running all over the globe. To seed your initial list you may start with:
  TODO: list the seed nodes
 
 ## Applications and Resources
