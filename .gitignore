@@ -1,0 +1,7 @@
+/*.log
+*.iml
+*.ipr
+npm-debug.log
+node_modules
+/ansible
+.idea
