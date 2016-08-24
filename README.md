@@ -16,7 +16,7 @@ Currently Future Vouchers are supported - issued as the native asset "IFV".
 ## Issuance Details
 
 ### WDD Currency Units
-100,000 Million WDD were issued. No more can be issued, ever; creating a non inflationary currency.
+10,000 Million WDD were issued. No more can be issued, ever; creating a non inflationary currency.
 ### IFV Currency Unitus
 10,000,000,000 IFV have been issued although they are not in circulation at this time.
 
